@@ -4,7 +4,7 @@
 Department of Informatics Engineering, Faculty of Engineering
 
 **Almudaya Research Institute**  
-Foundational Research in Meaning, Intelligence, and Formal Epistemology
+Foundational Research in Artificial Intelligence, Blockchain, Quantum Computing and Formal Epistemology
 
 ---
 
