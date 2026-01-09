@@ -1,0 +1,2 @@
+# Entropy-Intelligence-and-the-Limits-of-Prediction
+This repository contains a three-paper research program exploring the role of entropy as a fundamental constraint underlying the emergence of intelligence, knowledge, and prediction in physical universes.  The work develops a coherent progression from conceptual synthesis, to axiomatic formulation, and finally to formal mathematical articulation.
